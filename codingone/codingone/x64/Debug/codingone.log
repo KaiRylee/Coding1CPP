@@ -1,0 +1,3 @@
+﻿  codingone.cpp
+C:\Users\emmar\GitHub\Coding1CPP\codingone\codingone.cpp(13,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  codingone.vcxproj -> C:\Users\emmar\GitHub\Coding1CPP\codingone\x64\Debug\codingone.exe
