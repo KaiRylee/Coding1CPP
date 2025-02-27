@@ -21,5 +21,11 @@
     <ClCompile Include="codingone.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="loopsAndLists.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="favGamesFebTwenty.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

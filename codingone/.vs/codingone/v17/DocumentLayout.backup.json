@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\emmar\\GitHub\\Coding1CPP\\codingone\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C0DFAB4C-B184-4FB9-B291-29DBBA25947E}|codingone.vcxproj|C:\\Users\\emmar\\GitHub\\Coding1CPP\\codingone\\favGamesFebTwenty.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0DFAB4C-B184-4FB9-B291-29DBBA25947E}|codingone.vcxproj|solutionrelative:favGamesFebTwenty.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DFAB4C-B184-4FB9-B291-29DBBA25947E}|codingone.vcxproj|C:\\Users\\emmar\\GitHub\\Coding1CPP\\codingone\\loopsAndLists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0DFAB4C-B184-4FB9-B291-29DBBA25947E}|codingone.vcxproj|solutionrelative:loopsAndLists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C0DFAB4C-B184-4FB9-B291-29DBBA25947E}|codingone.vcxproj|C:\\Users\\emmar\\GitHub\\Coding1CPP\\codingone\\codingone.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C0DFAB4C-B184-4FB9-B291-29DBBA25947E}|codingone.vcxproj|solutionrelative:codingone.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DFAB4C-B184-4FB9-B291-29DBBA25947E}|codingone.vcxproj|C:\\Users\\emmar\\GitHub\\Coding1CPP\\codingone\\adventure1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0DFAB4C-B184-4FB9-B291-29DBBA25947E}|codingone.vcxproj|solutionrelative:adventure1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "favGamesFebTwenty.cpp",
+              "DocumentMoniker": "C:\\Users\\emmar\\GitHub\\Coding1CPP\\codingone\\favGamesFebTwenty.cpp",
+              "RelativeDocumentMoniker": "favGamesFebTwenty.cpp",
+              "ToolTip": "C:\\Users\\emmar\\GitHub\\Coding1CPP\\codingone\\favGamesFebTwenty.cpp",
+              "RelativeToolTip": "favGamesFebTwenty.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T18:12:56.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "loopsAndLists.cpp",
+              "DocumentMoniker": "C:\\Users\\emmar\\GitHub\\Coding1CPP\\codingone\\loopsAndLists.cpp",
+              "RelativeDocumentMoniker": "loopsAndLists.cpp",
+              "ToolTip": "C:\\Users\\emmar\\GitHub\\Coding1CPP\\codingone\\loopsAndLists.cpp",
+              "RelativeToolTip": "loopsAndLists.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T15:52:33.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "codingone.cpp",
               "DocumentMoniker": "C:\\Users\\emmar\\GitHub\\Coding1CPP\\codingone\\codingone.cpp",
               "RelativeDocumentMoniker": "codingone.cpp",
-              "ToolTip": "C:\\Users\\emmar\\GitHub\\Coding1CPP\\codingone\\codingone.cpp*",
-              "RelativeToolTip": "codingone.cpp*",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAE4AAAAMAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\emmar\\GitHub\\Coding1CPP\\codingone\\codingone.cpp",
+              "RelativeToolTip": "codingone.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-06T17:04:59.815Z",
+              "WhenOpened": "2025-02-13T16:02:21.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "adventure1.cpp",
+              "DocumentMoniker": "C:\\Users\\emmar\\GitHub\\Coding1CPP\\codingone\\adventure1.cpp",
+              "RelativeDocumentMoniker": "adventure1.cpp",
+              "ToolTip": "C:\\Users\\emmar\\GitHub\\Coding1CPP\\codingone\\adventure1.cpp",
+              "RelativeToolTip": "adventure1.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T05:34:41.474Z",
               "EditorCaption": ""
             }
           ]
