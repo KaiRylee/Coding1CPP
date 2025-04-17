@@ -15,16 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="adventure1.cpp">
+    <ClCompile Include="recapsp25.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="codingone.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="loopsAndLists.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="favGamesFebTwenty.cpp">
+    <ClCompile Include="humanClass.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

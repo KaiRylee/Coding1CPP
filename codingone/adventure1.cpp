@@ -16,7 +16,7 @@
 			// otherwise, tell the player they're dead.
 
 // I wrote the majority of this with a fever, and kept experiencing weird file access errors. be warned.
-/* #include <iostream>
+#include <iostream>
 #include <string>
 #include <ctime>
 #include <cstdlib>

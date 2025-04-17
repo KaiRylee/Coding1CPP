@@ -1,3 +1,31 @@
-﻿  favGamesFebTwenty.cpp
-C:\Users\emmar\GitHub\Coding1CPP\codingone\favGamesFebTwenty.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  codingone.vcxproj -> C:\Users\emmar\GitHub\Coding1CPP\codingone\x64\Debug\codingone.exe
+﻿  humanClass.cpp
+C:\Users\emmar\GitHub\Coding1CPP\codingone\humanClass.cpp(54,9): error C2248: 'human::name': cannot access private member declared in class 'human'
+      C:\Users\emmar\GitHub\Coding1CPP\codingone\humanClass.cpp(23,9):
+      see declaration of 'human::name'
+      C:\Users\emmar\GitHub\Coding1CPP\codingone\humanClass.cpp(20,7):
+      see declaration of 'human'
+  
+C:\Users\emmar\GitHub\Coding1CPP\codingone\humanClass.cpp(55,9): error C2248: 'human::health': cannot access private member declared in class 'human'
+      C:\Users\emmar\GitHub\Coding1CPP\codingone\humanClass.cpp(25,6):
+      see declaration of 'human::health'
+      C:\Users\emmar\GitHub\Coding1CPP\codingone\humanClass.cpp(20,7):
+      see declaration of 'human'
+  
+C:\Users\emmar\GitHub\Coding1CPP\codingone\humanClass.cpp(56,31): error C2248: 'human::name': cannot access private member declared in class 'human'
+      C:\Users\emmar\GitHub\Coding1CPP\codingone\humanClass.cpp(23,9):
+      see declaration of 'human::name'
+      C:\Users\emmar\GitHub\Coding1CPP\codingone\humanClass.cpp(20,7):
+      see declaration of 'human'
+  
+C:\Users\emmar\GitHub\Coding1CPP\codingone\humanClass.cpp(57,17): error C2248: 'human::name': cannot access private member declared in class 'human'
+      C:\Users\emmar\GitHub\Coding1CPP\codingone\humanClass.cpp(23,9):
+      see declaration of 'human::name'
+      C:\Users\emmar\GitHub\Coding1CPP\codingone\humanClass.cpp(20,7):
+      see declaration of 'human'
+  
+C:\Users\emmar\GitHub\Coding1CPP\codingone\humanClass.cpp(57,43): error C2248: 'human::health': cannot access private member declared in class 'human'
+      C:\Users\emmar\GitHub\Coding1CPP\codingone\humanClass.cpp(25,6):
+      see declaration of 'human::health'
+      C:\Users\emmar\GitHub\Coding1CPP\codingone\humanClass.cpp(20,7):
+      see declaration of 'human'
+  

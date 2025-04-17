@@ -18,6 +18,11 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="codingone.cpp" />
+    <ClCompile Include="humanClass.cpp" />
+    <ClCompile Include="recapsp25.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -126,12 +131,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="adventure1.cpp" />
-    <ClCompile Include="codingone.cpp" />
-    <ClCompile Include="favGamesFebTwenty.cpp" />
-    <ClCompile Include="loopsAndLists.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
