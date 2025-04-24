@@ -20,8 +20,15 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="codingone.cpp" />
+    <ClCompile Include="filez.cpp" />
     <ClCompile Include="humanClass.cpp" />
+    <ClCompile Include="mainW14.cpp" />
     <ClCompile Include="recapsp25.cpp" />
+    <ClCompile Include="ship.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="filez.h" />
+    <ClInclude Include="ship.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

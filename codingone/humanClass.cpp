@@ -10,7 +10,7 @@
 // void SetDamage(int givenDamage)
 // int GetHealth()
 // int GetDamage()
-
+/*
 #include <iostream>
 #include <string>
 using namespace std;
@@ -18,7 +18,7 @@ using namespace std;
 // creating a class named Human
 // dont forget the semicolon
 class human {
-private:			// only i can see this
+public:		
 
 	string name;
 	string phrase;      
@@ -44,20 +44,46 @@ public:				// anyone can see, call, and change this
 		cout << "I do " << damage << " damage with my sword! .\n";
 	}
 
-protected:
+
+};
+/*
+class wizard : public human {
+public:	
+	int mana;
+
+	void castSpell() {
+		cout << name << " casts a spell \n";
+	}
+};
+
+class magicalGirl : public human {
+public:
+	int friendship;
+
+	void powerWordKill() {
+		cout << name << " Strikes you down in the name of Mars! \n";
+	}
 };
 
 int main() {
-	cout << "Classes, yeah!!\n";
 
+	wizard dumblydore;
+	dumblydore.name;
+	dumblydore.sayHello();
+	dumblydore.castSpell();
+	cout << " Classes, yeah!!\n";
+
+	magicalGirl bbg;
+	bbg.powerWordKill();
 	/*human jeffery;
 	jeffery.name = "Jeffery James Jonas Jr.";
 	jeffery.health = 10;
 	cout << "This is " << jeffery.name << ".\n";
-	cout << jeffery.name << "Has " << jeffery.health << ".\n"; */
+	cout << jeffery.name << "Has " << jeffery.health << ".\n"; 
 
-	jeffery.sayHello();
+
 
 	return 0;
 	
-}
+}  
+*/ 
