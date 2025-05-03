@@ -36,3 +36,35 @@ void readFromFile() {
 	// close file
 	file.close();
 }
+
+void writeShipToFile(ship givenShip) {
+
+	cout << "Writing " << givenShip.name << " To file. \n";
+
+	ofstream file("ship.txt", ios::app);
+
+	if (!file.is_open()) {
+		cout << "could not open file. \n";
+		return;
+
+	}
+	
+	file << givenShip.name << "\n";
+	file << givenShip.fuel << "\n";
+
+	switch (givenShip.type) {
+	case FIGHTER: file << "fighter.\n";
+		break;
+	case FRIGATE: file << "frigate.\n";
+		break;
+	case FREIGHTER: file << "freighter.\n";
+		break;
+	case CRUISER: file << "cruiser.\n";
+		break;
+	default: file << "unknown.\n";
+		break;
+	}
+
+	file.close();
+	cout << "Done writing file.\n";
+}

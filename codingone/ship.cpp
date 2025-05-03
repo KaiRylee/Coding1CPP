@@ -23,3 +23,4 @@ void ship::status() {
 		break;
 	}
 }
+

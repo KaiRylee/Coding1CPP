@@ -5,7 +5,7 @@
 #include "ship.h"
 
 int main() {
-	cout << "Lets make some files! \n"; 
+	cout << "Lets make some files! \n";
 
 	string lines[15];
 
@@ -13,11 +13,9 @@ int main() {
 	ship minnow;
 	minnow.type = CRUISER;
 	minnow.status();
-	while (true) {
-
-	}
 	writeToFile(" Did you get your switch 2 preorder? \n");
 
+	writeShipToFile(minnow);
 	return 0;
 }
 
